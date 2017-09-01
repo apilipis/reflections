@@ -1,0 +1,2 @@
+When you initialize a repository, you can the files that are listed in that repository. As this will be the first time you are accessing the repository, there will be no commits listed when you run 'git log'. You need to initialize a repository in order to track the files you want in your repository.
+The staging area is different from the working directory and the repository in is a "middle ground" in which you can decide how to bundle your files for your commits. I think the value that it offers is that you can create logical bundles for your commits.
