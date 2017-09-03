@@ -30,7 +30,9 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    I would collaborate without using Git or GitHub by using Google Docs or DropBox. 
+    While people would be able to collaborate, it would not be as secure and as customized
+    as the Git/GitHub interface for coding projects.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
