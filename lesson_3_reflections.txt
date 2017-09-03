@@ -37,4 +37,9 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    You would want to make changes in a separate branch rather than directly in the master when
+    you are adding an experimental feature or trying out a new language, etc. The code on these
+    separate branches might not be production ready yet so keeping them separate from the master 
+    allows you to have a polished version and the potentially buggy demo versions. The benefits of
+    only having master branch is that you have everything in one place and can easily follow the commit
+    history. On the other hand, you risk putting all your eggs in one basket by only having a linear master branch.
